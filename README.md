@@ -2,7 +2,6 @@
 
 ![MSDN-GAN](https://github.com/jbmorlot/Multiscale-DenseNet-GAN/blob/master/images/Diagram.png)
 
-## Introduction
 Recent papers has shown that adding dense connection between convolutional layers on a samll model perform better and train faster than large networks as ResNet ([Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)). Recent improvement suggest to add top-down links(or downsampling layers) to improve the classification score ([Multi-Scale Dense Networks for Resource Efficient Image Classification
 ](https://arxiv.org/abs/1703.09844)). 
 From this work, we added bottom-up links ( or upsampling layer)  
